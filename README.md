@@ -80,4 +80,4 @@ Make sure to change:
 - `YOUR_USERNAME` in the `git clone` URL with your GitHub username.
 - Add a screenshot section if you want to show the GUI visually.
 
-Would you like help with a `.gitignore` or instructions to upload this to GitHub as well?
+
